@@ -1,0 +1,31 @@
+// Fonts
+
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+// Variables
+@import "variables";
+
+// Bootstrap
+//tinymce
+
+@import '~toastr/build/toastr.min.css';
+
+@import '~bootstrap/scss/bootstrap';
+
+//tinymce
+
+@import '~tinymce/skins/ui/oxide/skin.min.css';
+@import '~tinymce/skins/content/default/content.css';
+@import '~tinymce/skins/ui/oxide/content.min.css';
+// @import '~@lgaitan/pace-progress/dist/themes/black/pace-theme-loading-bar.css';
+//JQueryUI
+@import '~jquery-ui/themes/base/all.css';
+
+@import "~swiper/dist/css/swiper.min.css";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
